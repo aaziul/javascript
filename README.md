@@ -7,5 +7,5 @@ As anotações presentes neste repositório são anotações de estudos feitas e
 <ul>
   <li><a href="https://github.com/aaziul/javascript/tree/main/js-fundamentos">Fundamentos</a></li>
   <li><a href="https://github.com/aaziul/javascript/tree/main/js-arrays">Arrays</a></li>
-  <li>Objetos</li>
+  <li><a href="https://github.com/aaziul/javascript/tree/main/js-objetos">Objetos</a></li>
 </ul>
