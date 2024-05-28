@@ -6,6 +6,6 @@ As anotações presentes neste repositório são anotações de estudos feitas e
 <h3>Repositório dividido em:</h3>
 <ul>
   <li><a href="https://github.com/aaziul/javascript/tree/main/js-fundamentos">Fundamentos</a></li>
-  <li>Arrays</li>
+  <li><a href="https://github.com/aaziul/javascript/tree/main/js-arrays">Arrays</a></li>
   <li>Objetos</li>
 </ul>
